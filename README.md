@@ -1,2 +1,4 @@
 # verification
-user verification in Laravel using cache
+احراز هویت کاربران از طریق سیستم پیامکی و استفاده از cache
+##ویژگی ها
+- از framework laravel استفاده شده استفاده
